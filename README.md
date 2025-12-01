@@ -5,6 +5,10 @@
 <h3>Professional Goals</h3> <!--PROFESSIONAL GOALS------------------------------------------------------------>
 <hr>
 I am interested in a job in Computing or potentially accountancy.
+<br><br>
+LinkedIn: <a href="https://uk.linkedin.com/in/alexderoeck-magician">
+<img  alt="Alex's LinkedIn" width="25px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/refs/heads/master/public/logos/social%20media/linkedin/linkedin.svg" />
+</a>
 <br><br><br>
 
 <h3>What I'm working on</h3> <!--WHAT IM WORKING ON----------------------------------------------------------->
@@ -28,7 +32,7 @@ Team Working: From mulitple group projects I have worked on.
 Time Management: From multiple projects and assignments I have been set with deadlines, and worked on.
 <br><br>
 
-Problem Solving: Debugging and testing code, and problems in Maths.
+Problem Solving: Debugging and testing code, and complicated problems in Maths.
 <br><br>
 
 <br>
