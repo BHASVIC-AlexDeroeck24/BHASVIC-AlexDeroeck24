@@ -38,7 +38,7 @@ Problem Solving: Debugging and testing code, and complicated problems in Maths.
 <br>
 <hr>
 
-View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>
+View my repositories <a href="https://github.com/BHASVIC-AlexDeroeck24?tab=repositories">here</a>. Please note some repositories may not be visible as they are under my College's 
 <br><br>
 
 <details>
